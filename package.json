@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@pinia/nuxt": "^0.4.6",
+    "@vueuse/core": "^9.6.0",
+    "@vueuse/nuxt": "^9.6.0",
+    "normalize.css": "^8.0.1",
+    "nuxt": "3.0.0",
+    "pinia": "^2.0.27",
+    "postcss": "^8.4.19",
+    "postcss-px-to-viewport": "^1.1.1",
+    "sass": "^1.56.1"
+  }
+}
